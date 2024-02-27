@@ -14,6 +14,7 @@ logging.basicConfig(level=logging.INFO,
                     stream=sys.stdout,
                     datefmt=DATE_FORMAT)
 
+
 print(r'''
 **************************************
     欢迎使用i茅台自动预约工具
